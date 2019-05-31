@@ -1,6 +1,7 @@
 # Day 1: Installing Python
 **Completion Date:** 
 05/31/2019
+
 **Learned:** 
 How to install Python IDE and how to print
 
